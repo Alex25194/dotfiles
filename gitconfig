@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hester25194@gmail.com
+	name = Alex Hester
